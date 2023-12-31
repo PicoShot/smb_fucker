@@ -1,0 +1,6 @@
+﻿  smb fucker++.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  smb fucker++.vcxproj -> C:\Users\Administrator\source\repos\smb fucker++\x64\Release\smb fucker++.exe

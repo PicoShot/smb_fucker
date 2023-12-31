@@ -1,0 +1,9 @@
+﻿  smb fucker++.cpp
+C:\Users\Administrator\source\repos\smb fucker++\smb fucker++\smb fucker++.cpp(164,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\Administrator\source\repos\smb fucker++\smb fucker++\smb fucker++.cpp(164,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\Administrator\source\repos\smb fucker++\smb fucker++\smb fucker++.cpp(177,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\Administrator\source\repos\smb fucker++\smb fucker++\smb fucker++.cpp(177,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Users\Administrator\source\repos\smb fucker++\smb fucker++\smb fucker++.cpp(190,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\Administrator\source\repos\smb fucker++\smb fucker++\smb fucker++.cpp(190,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\Administrator\source\repos\smb fucker++\x64\Debug\smb fucker++.exe for writing
